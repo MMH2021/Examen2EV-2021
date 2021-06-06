@@ -18,8 +18,8 @@ namespace Ejercicio10
 
          // Declaramos la constante que convierte entre euros y dolares.
         //
-        const double CONV1MCMH2021 = 0.826;  // 1 dolar, 0,826 euros
-        const double CONV2MCMH2021 = 1.1485; // 1 libra, 1,1485 euros
+        const double CONV1MCMH2021 = 1.826;  // 1 dolar, 0,826 euros
+        const double CONV2MCMH2021 = 0.1485; // 1 libra, 1,1485 euros
 
         private void btDolaresAEuros_Click(object sender, EventArgs e)
         {
